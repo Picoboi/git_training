@@ -1,7 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
-wemnfwfmopwfm,
-=======
-mnfrgeijmngopwemg
+
+this is sth new idk lol
 
 ice be poppin pillies like tic tacs 

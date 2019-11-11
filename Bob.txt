@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 Hi! Im Bob. Ive been here for a while now
-=======
-Hi! Im Bob. Ive been here for a while now
->>>>>>> bobby_branch
+
  Ibims 1 bob lmao
 

@@ -1,7 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 <<<<<<< HEAD
-nuzzles and pukes Owq whoop di fuken doo
+nuzzles and pukes 
 =======
-nuzzles and pukes Owq whoop di fuken doo
+nuzzles and pukes 
 >>>>>>> 4c767fc5523a1d5d8a31e1b886e78ea53def30f3
 Alice be poppin pillies like tic tacs 
